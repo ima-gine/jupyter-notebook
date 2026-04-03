@@ -5,7 +5,6 @@ This repository contains the `Sample.ipynb` notebook built during my Syntecxhub 
 ## Project structure
 - `Sample.ipynb` - main notebook
 - `data/` - example datasets (`bios.csv`, `results.csv`, `results.feather`, etc.)
-- `images/` - optional output visualizations
 - `warmup-data/coffee.csv` - sample dataset for learning pandas
 
 ## What I learned (major achievements)
