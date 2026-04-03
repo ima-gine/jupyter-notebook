@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# Data outputs (if generated, avoid committing huge files)
+*.csv
+*.feather
+*.parquet
+*.xlsx
+
+# Optional
+venv/
+.env
